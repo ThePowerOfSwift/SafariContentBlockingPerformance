@@ -14,6 +14,7 @@
 		16D98E341B8FDCB900EAD1DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16D98E321B8FDCB900EAD1DA /* LaunchScreen.storyboard */; };
 		16D98E4A1B8FE24300EAD1DA /* SafariSpeedTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D98E491B8FE24300EAD1DA /* SafariSpeedTestViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		16D98E4E1B903FB700EAD1DA /* SiteList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D98E4D1B903FB700EAD1DA /* SiteList.swift */; settings = {ASSET_TAGS = (); }; };
+		16D98E501B9043E200EAD1DA /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 16D98E4F1B9043E200EAD1DA /* readme.md */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,8 +26,8 @@
 		16D98E331B8FDCB900EAD1DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16D98E351B8FDCB900EAD1DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16D98E491B8FE24300EAD1DA /* SafariSpeedTestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SafariSpeedTestViewController.swift; sourceTree = "<group>"; };
-		16D98E4B1B903F5B00EAD1DA /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = readme.md; path = SafariContentBlockingPerformance/readme.md; sourceTree = "<group>"; };
 		16D98E4D1B903FB700EAD1DA /* SiteList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteList.swift; sourceTree = "<group>"; };
+		16D98E4F1B9043E200EAD1DA /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +44,7 @@
 		16D98E1B1B8FDCB900EAD1DA = {
 			isa = PBXGroup;
 			children = (
-				16D98E4B1B903F5B00EAD1DA /* readme.md */,
+				16D98E4F1B9043E200EAD1DA /* readme.md */,
 				16D98E261B8FDCB900EAD1DA /* SafariContentBlockingPerformance */,
 				16D98E251B8FDCB900EAD1DA /* Products */,
 			);
@@ -145,6 +146,7 @@
 				16D98E4A1B8FE24300EAD1DA /* SafariSpeedTestViewController.swift in Sources */,
 				16D98E4E1B903FB700EAD1DA /* SiteList.swift in Sources */,
 				16D98E2A1B8FDCB900EAD1DA /* MasterViewController.swift in Sources */,
+				16D98E501B9043E200EAD1DA /* readme.md in Sources */,
 				16D98E281B8FDCB900EAD1DA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
